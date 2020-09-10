@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5287" started-at="2020-09-10T19:11:20 EDT" finished-at="2020-09-10T19:11:26 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5287" started-at="2020-09-10T19:11:20 EDT" finished-at="2020-09-10T19:11:26 EDT">
+      <class name="techCircle_OrangeHRM.tests.SampleTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:techCircle_OrangeHRM.tests.SampleTests@1afdd473]" name="beforeTest" is-config="true" duration-ms="9" started-at="2020-09-10T19:11:20 EDT" finished-at="2020-09-10T19:11:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:techCircle_OrangeHRM.tests.SampleTests@1afdd473]" name="beforeMethod" is-config="true" duration-ms="1174" started-at="2020-09-10T19:11:20 EDT" finished-at="2020-09-10T19:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createAUser()[pri:0, instance:techCircle_OrangeHRM.tests.SampleTests@1afdd473]" name="createAUser" duration-ms="3831" started-at="2020-09-10T19:11:22 EDT" finished-at="2020-09-10T19:11:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAUser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:techCircle_OrangeHRM.tests.SampleTests@1afdd473]" name="afterMethod" is-config="true" duration-ms="216" started-at="2020-09-10T19:11:25 EDT" finished-at="2020-09-10T19:11:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:techCircle_OrangeHRM.tests.SampleTests@1afdd473]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-09-10T19:11:26 EDT" finished-at="2020-09-10T19:11:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- techCircle_OrangeHRM.tests.SampleTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
